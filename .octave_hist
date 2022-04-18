@@ -1,0 +1,14 @@
+# Octave 5.2.0, Thu Sep 03 12:15:49 2020 GMT <unknown@DESKTOP-K141CBI>
+5+5
+ones(2,3)
+rand(1,200)
+w=rand(1,100)
+hist(w)
+hist(w,50)
+hist(w)
+hist(w,50)
+eye(5)
+help eye
+# Octave 5.2.0, Sat Sep 05 02:40:27 2020 GMT <unknown@DESKTOP-K141CBI>
+eye(5)
+# Octave 5.2.0, Sun Sep 06 12:56:55 2020 GMT <unknown@DESKTOP-K141CBI>
